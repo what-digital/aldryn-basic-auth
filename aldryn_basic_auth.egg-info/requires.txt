@@ -1,0 +1,4 @@
+django-picklefield==0.3.2
+django-constance==1.2
+aldryn-addons
+six

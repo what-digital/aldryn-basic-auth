@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+aldryn_basic_auth/__init__.py
+aldryn_basic_auth/middleware.py
+aldryn_basic_auth.egg-info/PKG-INFO
+aldryn_basic_auth.egg-info/SOURCES.txt
+aldryn_basic_auth.egg-info/dependency_links.txt
+aldryn_basic_auth.egg-info/not-zip-safe
+aldryn_basic_auth.egg-info/requires.txt
+aldryn_basic_auth.egg-info/top_level.txt
