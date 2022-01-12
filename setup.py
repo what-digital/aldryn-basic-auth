@@ -6,7 +6,7 @@ REQUIREMENTS = [
     # dependency for constance database backend
     'django-picklefield>=0.3.2',
     # dependency for managing settings via admin
-    'django-constance==1.2',
+    'django-constance',
     'aldryn-addons',
     'six',
 ]
